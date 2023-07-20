@@ -146,5 +146,8 @@
     "presets": [
       "react-app"
     ]
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
   }
 }
